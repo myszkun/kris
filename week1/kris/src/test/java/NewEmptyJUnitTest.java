@@ -19,4 +19,9 @@ public class NewEmptyJUnitTest {
     
    @Test
      public void hello() {
+         System.out.println("hello world");
+         System.out.println("hello world today");
+         System.out.println("hello world today2");
+     }
+}
 
